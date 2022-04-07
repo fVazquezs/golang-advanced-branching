@@ -29,7 +29,7 @@ type Model struct {
 
 type feedbackResult struct {
 	feedbackTotal    int
-	feebackPositive  int
+	feedbackPositive int
 	feedbackNeutral  int
 	feedbackNegative int
 }
